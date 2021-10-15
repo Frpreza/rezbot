@@ -2869,7 +2869,7 @@ break
   │◦➛Profile Github :
   │◦➛https://github.com/Frpreza
   │◦➛Script Recode : 
-  │◦➛https://github.com/Frpreza/botreza
+  │◦➛https://github.com/Frpreza/rezbot
   └──────────────────❒`
  buttons = [
 {buttonId: `menu`, buttonText: {displayText: 'BACK➡️'}, type: 1},
